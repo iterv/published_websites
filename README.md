@@ -1,4 +1,3 @@
-# published_websites
 Wordpress sites i've designed and built:
 
 https://hammassampo.fi/
