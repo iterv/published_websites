@@ -1,18 +1,18 @@
 Wordpress sites i've designed and built:
 
-https://hammassampo.fi/
+<a href="https://hammassampo.fi/" target="_blank">https://hammassampo.fi</a>
 
-https://bellahelena.fi/
+<a href="https://bellahelena.fi/" target="_blank">https://bellahelena.fi</a>
 
-https://wastebook.fi/
+<a href="https://wastebook.fi/" target="_blank">https://wastebook.fi</a>
 
-https://www.tecinspire.com/
+<a href="https://www.tecinspire.com/" target="_blank">www.tecinspire.com</a>
 
-https://www.patepal.com/
+<a href="https://www.patepal.fi/" target="_blank">www.patepal.fi</a>
 
-https://macon.fi/
+<a href="https://macon.fi/" target="_blank">https://macon.fi</a>
 
-http://www.cturva.fi/
+<a href="https://www.cturva.fi/" target="_blank">www.cturva.fi/</a>
 
 
 
